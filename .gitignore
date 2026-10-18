@@ -1,0 +1,7 @@
+# Only Markdown documentation is eligible for new additions by default.
+# Previously reviewed image assets are already tracked.
+*
+!*/
+!*.md
+!LICENSE
+!.gitignore
