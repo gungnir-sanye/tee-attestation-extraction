@@ -68,7 +68,7 @@
 
 ![Google Play Integrity 研究微信群二维码](assets/community/wechat-group-google-play-integrity.png)
 
-该二维码在 7 天内有效（截至 10 月 23 日）；二维码失效后，重新进入页面获取更新后的二维码。
+该二维码在 7 天内有效（截至 11 月 5 日）；二维码失效后，重新进入页面获取更新后的二维码。
 
 ### 微信赞赏
 

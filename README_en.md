@@ -68,7 +68,7 @@ Group name: Google Play Integrity Research. Scan the QR code below with WeChat t
 
 ![Google Play Integrity Research WeChat group QR code](assets/community/wechat-group-google-play-integrity.png)
 
-This QR code is valid for seven days, until October 23. When it expires, revisit this page to obtain an updated QR code.
+This QR code is valid for seven days, until November 5. When it expires, revisit this page to obtain an updated QR code.
 
 ### WeChat support
 
