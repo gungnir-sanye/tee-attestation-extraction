@@ -53,10 +53,6 @@ If a relationship fails, retain the failed evidence and mark the result unaccept
 
 If this technical archive is useful to your research, you are welcome to use the public channels below to support future maintenance and research. Donations do not provide restricted vulnerability material, real keys, or device-extraction services. Confirm the network and asset type before sending; blockchain transfers are usually irreversible, so a small test transfer is recommended.
 
-### Platform donation
-
-- [Ko-fi donation page](https://ko-fi.com/sanyegungnir)
-
 ### Telegram technical discussion
 
 - [Join the Telegram channel](https://t.me/keybox_playintegrityfix) (channel: @keybox_playintegrityfix)

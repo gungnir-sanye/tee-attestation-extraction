@@ -53,10 +53,6 @@
 
 如果这份技术整理对你的研究有帮助，欢迎通过以下公开渠道捐款支持后续维护与研究。捐款不会换取受限漏洞材料、真实密钥或设备提取服务。转账前请确认网络和资产类型；区块链转账通常不可逆，建议先进行小额测试。
 
-### 平台捐款
-
-- [Ko-fi 捐款页面](https://ko-fi.com/sanyegungnir)
-
 ### Telegram 技术讨论
 
 - [加入 Telegram 频道](https://t.me/keybox_playintegrityfix)（频道：@keybox_playintegrityfix）
