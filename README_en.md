@@ -62,20 +62,6 @@ If this technical archive is useful to your research, you are welcome to use the
 - [Join the Telegram channel](https://t.me/keybox_playintegrityfix) (channel: @keybox_playintegrityfix)
 - The channel is for related technical discussion and experience sharing. It does not promise restricted vulnerability material, real keys, or device-extraction services.
 
-### WeChat technical discussion group
-
-Group name: Google Play Integrity Research. Scan the QR code below with WeChat to join:
-
-![Google Play Integrity Research WeChat group QR code](assets/community/wechat-group-google-play-integrity.png)
-
-This QR code is valid for seven days, until November 5. When it expires, revisit this page to obtain an updated QR code.
-
-### WeChat support
-
-![WeChat support QR](assets/donations/wechat.jpg)
-
-The maximum single appreciation is 200 CNY, subject to the rules shown by WeChat at the time of payment.
-
 ### Cryptocurrency donations
 
 | Network | Address | Asset note |
@@ -104,7 +90,7 @@ Important notes:
 
 Failed routes in the logs explain how the research judgment changed; they are not recommendations to repeat the steps. If an old command does not match the current build, slot, or input hash, stop the review. Before experiments that flash files, change persistent state, or affect services, confirm the original materials, recovery conditions, and device health checks. Record new findings separately instead of overwriting historical logs.
 
-The public edition contains documentation and community and donation images only. Device-specific patch bytes, vendor firmware, raw dumps, real Keyboxes, RKP seeds, private keys, and raw identity responses are not published. Before adding any future file, check rights and third-party licenses, personal paths, metadata, device identifiers, and secrets. A filename or hash record is not redistribution permission.
+The public edition contains documentation and donation images only. Device-specific patch bytes, vendor firmware, raw dumps, real Keyboxes, RKP seeds, private keys, and raw identity responses are not published. Before adding any future file, check rights and third-party licenses, personal paths, metadata, device identifiers, and secrets. A filename or hash record is not redistribution permission.
 
 ## Use boundaries, license, and disclaimer
 
